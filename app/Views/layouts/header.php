@@ -5,6 +5,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <meta name="description"
+        content="The St. Catherine Monastery is managed by a group of Tanzanian Benedictine Nuns who are Members of Camaldolesian Order. The history of the monastery begins in July 2002 with three nuns who came from the Monastery Mama wa Kanisa, which belongs to the Iringa Diocese and is located in Tanzania’s Southern Highlands. ">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="<?=base_url()?>/assets/css/bootstrap.min.css" />
 
     <link rel="stylesheet" href="<?=base_url()?>/assets/css/animate.min.css" />
@@ -25,13 +30,14 @@
     <link rel="stylesheet" href="<?=base_url()?>/assets/css/jquery-ui.css" />
 
     <link rel="stylesheet" href="<?=base_url()?>/assets/css/style.css" />
+    <link rel="stylesheet" href="<?=base_url()?>/assets/css/custom.css" />
 
     <link rel="stylesheet" href="<?=base_url()?>/assets/css/responsive.css" />
 
     <link rel="icon" type="image/png" href="<?=base_url()?>/assets/img/logos/logo1.png" />
 
 
-    <title>Hostel</title>
+    <title><?=$title?></title>
 </head>
 
 <body>
@@ -52,15 +58,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-3 col-md-2 pr-0">
-                    <!-- <div class="language-list">
-                        <select class="language-list-item">
-                            <option>English</option>
-                            <option>العربيّة</option>
-                            <option>Deutsch</option>
-                            <option>Português</option>
-                            <option>简体中文</option>
-                        </select>
-                    </div> -->
+
                 </div>
                 <div class="col-lg-9 col-md-10">
                     <div class="header-right">
@@ -87,7 +85,7 @@
 
     <div class="navbar-area">
         <div class="mobile-nav">
-            <a href="index-2.html" class="logo">
+            <a href="<?=base_url()?>" class="logo">
                 <img src="<?=base_url()?>/assets/img/logos/logo1.jpg" alt="Logo" />
             </a>
         </div>
@@ -101,17 +99,17 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav m-auto">
                             <li class="nav-item">
-                                <a href="#" class="nav-link active">
+                                <a href="<?=base_url()?>" class="nav-link active">
                                     Home
 
                                 </a>
 
                             </li>
                             <li class="nav-item">
-                                <a href="about.html" class="nav-link"> About </a>
+                                <a href="<?=base_url()?>/about" class="nav-link"> About </a>
                             </li>
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="<?=base_url()?>/retreat" class="nav-link">
                                     The Retreat House
                                     <!-- <i class="bx bx-chevron-down"></i> -->
                                 </a>
@@ -129,12 +127,12 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="services-1.html" class="nav-link">
+                                        <a href="<?=base_url()?>" class="nav-link">
                                             Camp Site
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="services-2.html" class="nav-link">
+                                        <a href="<?=base_url()?>" class="nav-link">
                                             Iraqw Cultural
                                         </a>
                                     </li>
@@ -143,14 +141,14 @@
                             </li>
 
                             <li class="nav-item">
-                                <a href="#" class="nav-link">
+                                <a href="<?=base_url()?>" class="nav-link">
                                     Rooms
 
                                 </a>
 
                             </li>
                             <li class="nav-item">
-                                <a href="contact.html" class="nav-link"> Contact </a>
+                                <a href="<?=base_url()?>" class="nav-link"> Contact </a>
                             </li>
                             <!-- <li class="nav-item-btn">
                                 <a href="#" class="default-btn btn-bg-one border-radius-5">Book Now</a>

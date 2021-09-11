@@ -6,28 +6,27 @@
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <a href="index-2.html">
-                                <img src="assets/img/logos/footer-logo1.png" alt="Images" />
+                                <img src="assets/img/logos/logo1.jpg" alt="Images" />
                             </a>
                         </div>
                         <p>
-                            Aenean finibus convallis nisl sit amet hendrerit. Etiam
-                            blandit velit non lorem mattis, non ultrices eros bibendum .
+                            ST CATHERINE MONASTERY, THE RETREAT HOUSE AT NGORONGORO
                         </p>
                         <ul class="footer-list-contact">
                             <li>
                                 <i class="bx bx-home-alt"></i>
-                                <a href="#">123 Stanton, Virginia, USA</a>
+                                <a href="#">KAMBI YA NYOKA
+                                    KARATU ARUSHA, TANZANIA
+                                </a>
                             </li>
                             <li>
                                 <i class="bx bx-phone-call"></i>
-                                <a href="tel:+1-(123)-456-7890">+1 (123) 456 7890</a>
+                                <a href="tel:+1-(123)-456-7890">+255(0) 762923306</a>
                             </li>
                             <li>
                                 <i class="bx bx-envelope"></i>
-                                <a
-                                    href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#38505d54545778594c575451165b5755"><span
-                                        class="__cf_email__"
-                                        data-cfemail="8ce4e9e0e0e3ccedf8e3e0e5a2efe3e1">[email&#160;protected]</span></a>
+                                <a href="mailto:info@stcatherinemonastery.com"><span
+                                        class="__cf_email__">info@stcatherinemonastery.com</span></a>
                             </li>
                         </ul>
                     </div>
@@ -37,41 +36,26 @@
                         <h3>Links</h3>
                         <ul class="footer-list">
                             <li>
-                                <a href="about.html" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="bx bx-caret-right"></i>
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a href="services-1.html" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="bx bx-caret-right"></i>
                                     Services
                                 </a>
                             </li>
+
                             <li>
-                                <a href="team.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Team
-                                </a>
-                            </li>
-                            <li>
-                                <a href="gallery.html" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="bx bx-caret-right"></i>
                                     Gallery
                                 </a>
                             </li>
-                            <li>
-                                <a href="terms-condition.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Terms
-                                </a>
-                            </li>
-                            <li>
-                                <a href="privacy-policy.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Privacy Policy
-                                </a>
-                            </li>
+
+
                         </ul>
                     </div>
                 </div>
@@ -85,32 +69,16 @@
                                     Home
                                 </a>
                             </li>
+
+
                             <li>
-                                <a href="blog-1.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Blog
-                                </a>
-                            </li>
-                            <li>
-                                <a href="faq.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    FAQ
-                                </a>
-                            </li>
-                            <li>
-                                <a href="testimonials.html" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Testimonials
-                                </a>
-                            </li>
-                            <li>
-                                <a href="gallery.html" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="bx bx-caret-right"></i>
                                     Gallery
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html" target="_blank">
+                                <a href="#" target="_blank">
                                     <i class="bx bx-caret-right"></i>
                                     Contact Us
                                 </a>
@@ -122,9 +90,8 @@
                     <div class="footer-widget">
                         <h3>Newsletter</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam tempor eget ante fringilla rutrum aenean sed venenatis
-                            .
+
+
                         </p>
                         <div class="footer-form">
                             <form class="newsletter-form" data-toggle="validator" method="POST">
@@ -153,8 +120,8 @@
                 <div class="col-lg-8 col-md-8">
                     <div class="copy-right-text text-align1">
                         <p>
-                            Copyright ©2021 Atoli. All Rights Reserved by
-                            <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a>
+                            Copyright ©2021
+                            St Catherine Monastery
                         </p>
                     </div>
                 </div>

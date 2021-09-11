@@ -15,4 +15,15 @@ class MainController extends BaseController
         $data['title'] = 'About Us';
         return view('pages/about', $data);
     }
+
+    public function retreat()
+    {
+        $data['title'] = 'retreat';
+        return view('pages/retreat', $data);
+    }
+    public function slide()
+    {
+        $data['title'] = 'retreat';
+        return view('pages/slide', $data);
+    }
 }
