@@ -32,8 +32,12 @@ $routes->setAutoRoute(true);
 $webRoutes = [];
 
 $webRoutes['about'] = 'MainController::about';
+$webRoutes['contact'] = 'MainController::contact';
+$webRoutes['gallery'] = 'MainController::gallery';
+$webRoutes['cultural'] = 'MainController::cultural';
 $webRoutes['retreat'] = 'MainController::retreat';
-$webRoutes['slide'] = 'MainController::slide';
+$webRoutes['rooms'] = 'MainController::rooms';
+$webRoutes['campSite'] = 'MainController::campSite';
 
 $routes->map($webRoutes);
 

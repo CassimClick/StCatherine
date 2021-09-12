@@ -54,5 +54,6 @@
     </div>
 
 </section>
+<?=$this->include('components/gallery');?>
 
 <?=$this->endSection();?>

@@ -39,6 +39,14 @@
     box-shadow: var(--shadow);
 }
 
+.single-gallery{
+    img{
+        width: 100%;
+        height: 330px;
+        object-fit: cover;
+    }
+}
+
 
 .slider {
     position: relative;

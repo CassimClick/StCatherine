@@ -2,7 +2,7 @@
     <div class="container">
         <div class="footer-top pt-100 pb-70">
             <div class="row align-items-center">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <a href="index-2.html">
@@ -31,40 +31,13 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
-                    <div class="footer-widget pl-5">
-                        <h3>Links</h3>
-                        <ul class="footer-list">
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    About Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Services
-                                </a>
-                            </li>
 
-                            <li>
-                                <a href="#" target="_blank">
-                                    <i class="bx bx-caret-right"></i>
-                                    Gallery
-                                </a>
-                            </li>
-
-
-                        </ul>
-                    </div>
-                </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="footer-widget">
                         <h3>Useful Links</h3>
                         <ul class="footer-list">
                             <li>
-                                <a href="index-2.html" target="_blank">
+                                <a href="<?=base_url()?>">
                                     <i class="bx bx-caret-right"></i>
                                     Home
                                 </a>
@@ -72,21 +45,41 @@
 
 
                             <li>
-                                <a href="#" target="_blank">
+                                <a href="<?=base_url()?>/gallery">
                                     <i class="bx bx-caret-right"></i>
                                     Gallery
                                 </a>
                             </li>
                             <li>
-                                <a href="#" target="_blank">
+                                <a href="<?=base_url()?>/contact">
                                     <i class="bx bx-caret-right"></i>
                                     Contact Us
+                                </a>
+                            </li>
+                            <li>
+                                <a href="<?=base_url()?>/campSite">
+                                    <i class="bx bx-caret-right"></i>
+                                    Camp Site
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="<?=base_url()?>/retreat">
+                                    <i class="bx bx-caret-right"></i>
+                                    The Retreat House
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="<?=base_url()?>/rooms">
+                                    <i class="bx bx-caret-right"></i>
+                                    Rooms
                                 </a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
                         <h3>Newsletter</h3>
                         <p>
@@ -129,20 +122,15 @@
                     <div class="social-icon text-align2">
                         <ul class="social-link">
                             <li>
-                                <a href="#" target="_blank"><i class="bx bxl-facebook"></i></a>
+                                <a href="#"><i class="bx bxl-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="#" target="_blank"><i class="bx bxl-twitter"></i></a>
+                                <a href="#"><i class="bx bxl-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="#" target="_blank"><i class="bx bxl-instagram"></i></a>
+                                <a href="#"><i class="bx bxl-instagram"></i></a>
                             </li>
-                            <li>
-                                <a href="#" target="_blank"><i class="bx bxl-pinterest-alt"></i></a>
-                            </li>
-                            <li>
-                                <a href="#" target="_blank"><i class="bx bxl-youtube"></i></a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>

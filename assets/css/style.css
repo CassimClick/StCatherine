@@ -3735,7 +3735,7 @@ img {
 }
 .book-img-2 {
   position: relative;
-  z-index: -1;
+  /* z-index: -1; */
   margin-bottom: 30px;
   margin-top: 30px;
 }

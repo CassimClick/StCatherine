@@ -1,4 +1,4 @@
-  <div class="room-area pt-100 pb-70 section-bg">
+  <div class="room-area pt-100 pb-70 ">
       <div class="container">
           <div class="section-title text-center">
               <!-- <span>ROOMS</span> -->

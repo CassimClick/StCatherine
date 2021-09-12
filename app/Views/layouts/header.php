@@ -106,19 +106,28 @@
 
                             </li>
                             <li class="nav-item">
-                                <a href="<?=base_url()?>/about" class="nav-link"> About </a>
+                                <a href="<?=base_url()?>/about" class="nav-link"> About Us </a>
                             </li>
                             <li class="nav-item">
                                 <a href="<?=base_url()?>/retreat" class="nav-link">
                                     The Retreat House
                                     <!-- <i class="bx bx-chevron-down"></i> -->
                                 </a>
-                                <!-- <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="book.html" class="nav-link"> Booking </a>
-                                    </li>
 
-                                </ul> -->
+                            </li>
+                            <li class="nav-item">
+                                <a href="<?=base_url()?>/rooms" class="nav-link">
+                                    Rooms
+                                    <!-- <i class="bx bx-chevron-down"></i> -->
+                                </a>
+
+                            </li>
+                            <li class="nav-item">
+                                <a href="<?=base_url()?>/gallery" class="nav-link">
+                                    Gallery
+                                    <!-- <i class="bx bx-chevron-down"></i> -->
+                                </a>
+
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
@@ -127,12 +136,12 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="<?=base_url()?>" class="nav-link">
+                                        <a href="<?=base_url()?>/campSite" class="nav-link">
                                             Camp Site
                                         </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="<?=base_url()?>" class="nav-link">
+                                        <a href="<?=base_url()?>/cultural" class="nav-link">
                                             Iraqw Cultural
                                         </a>
                                     </li>
@@ -140,15 +149,9 @@
                                 </ul>
                             </li>
 
-                            <li class="nav-item">
-                                <a href="<?=base_url()?>" class="nav-link">
-                                    Rooms
 
-                                </a>
-
-                            </li>
                             <li class="nav-item">
-                                <a href="<?=base_url()?>" class="nav-link"> Contact </a>
+                                <a href="<?=base_url()?>/contact" class="nav-link"> Contact Us </a>
                             </li>
                             <!-- <li class="nav-item-btn">
                                 <a href="#" class="default-btn btn-bg-one border-radius-5">Book Now</a>
