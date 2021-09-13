@@ -38,6 +38,7 @@ $webRoutes['cultural'] = 'MainController::cultural';
 $webRoutes['retreat'] = 'MainController::retreat';
 $webRoutes['rooms'] = 'MainController::rooms';
 $webRoutes['campSite'] = 'MainController::campSite';
+$webRoutes['roomDetails/(:any)'] = 'MainController::roomDetails/$1';
 
 $routes->map($webRoutes);
 

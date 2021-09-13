@@ -37,9 +37,9 @@
                             <li>
                                 <i class='bx bx-phone-call'></i>
                                 <div class="content">
-                                    <span><a href="tel:+255(0) 762 923 306">+255(0) 762 923 306</a></span>
-                                    <span><a href="tel:+255(0) 789 925 724">+255(0) 789 925 724</a></span>
-                                    <span><a href="tel:+255(0)689 499 597">+255(0)689 499 597 (WhatsApp)</a></span>
+                                    <span><a href="tel:+255 762 923 306">+255 762 923 306</a></span>
+                                    <span><a href="tel:+255 789 925 724">+255 686 240 225</a></span>
+                                    <span><a href="tel:+255 689 499 597">+255689 499 597 (WhatsApp)</a></span>
                                 </div>
                             </li>
                             <li>

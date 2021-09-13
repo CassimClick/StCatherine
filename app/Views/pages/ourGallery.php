@@ -29,10 +29,34 @@
                         <div class="gallery-view">
                             <div class="row">
                                 <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors1.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors7.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors2.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors3.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors4.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/gallery-49.jpg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/compound.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/hostel1.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/hostel2.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/hostel3.jpeg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/monastery(9).jpg')?>
@@ -44,10 +68,31 @@
                                     <?=galleryBlock('assets/img/mix/gardern12.jpg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/gallery-1.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/gallery-2.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/gallery-3.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/gallery-4.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/6.jpg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/3.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/mix/iraq1.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/mix/iraq2.jpg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/mix/iraq3.jpg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/camping12.jpg')?>

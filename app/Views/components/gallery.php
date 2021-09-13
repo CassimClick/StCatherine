@@ -10,6 +10,18 @@
                         <div class="gallery-view">
                             <div class="row">
                                 <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors1.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors7.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors2.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
+                                    <?=galleryBlock('assets/img/pics/visitors3.jpeg')?>
+                                </div>
+                                <div class="col-lg-4 col-sm-6">
                                     <?=galleryBlock('assets/img/mix/gallery-49.jpg')?>
                                 </div>
                                 <div class="col-lg-4 col-sm-6">

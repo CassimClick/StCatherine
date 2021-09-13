@@ -1,21 +1,36 @@
 <div class="slider">
     <div class="slide current"
-        style="background: url('<?=base_url()?>/assets/img/slide/image1.jpg') no-repeat center top/cover">
-        <!-- <div class="content">
-            <h1>Slide One</h1>
-            <p>
+        style="background: url('<?=base_url()?>/assets/img/pics/hostel3.jpeg') no-repeat center top/cover">
 
-            </p>
-        </div> -->
     </div>
-    <div class="slide current"
-        style="background: url('<?=base_url()?>/assets/img/slide/image3.jpg') no-repeat center top/cover">
-        <!-- <div class="content">
-            <h1>Slide One</h1>
-            <p>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/slide/image1.jpg') no-repeat center top/cover">
 
-            </p>
-        </div> -->
+    </div>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/slide/image3.jpg') no-repeat center top/cover">
+
+    </div>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/pics/visitors3.jpeg') no-repeat center top/cover">
+
+    </div>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/pics/visitors7.jpeg') no-repeat center top/cover">
+
+    </div>
+
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/pics/hostel2.jpeg') no-repeat center top/cover">
+
+    </div>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/mix/camping5.jpg') no-repeat center top/cover">
+
+    </div>
+    <div class="slide "
+        style="background: url('<?=base_url()?>/assets/img/mix/camping15.jpg') no-repeat center top/cover">
+
     </div>
 
     <div class="slide"

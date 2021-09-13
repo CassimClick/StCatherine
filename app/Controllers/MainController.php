@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 
+use App\Models\RoomModel;
+
 class MainController extends BaseController
 {
     public function __construct()
@@ -59,5 +61,15 @@ class MainController extends BaseController
     {
         $data['title'] = 'Iraqw cultural Museum';
         return view('pages/cultural', $data);
+    }
+    //=================room details====================
+    public function roomDetails($name)
+    {
+        $roomModel = new RoomModel();
+        $data['features'] = $roomModel->features();
+        $data['room'] = $roomModel->singleRoom($name);
+        $data['title'] = $roomModel->singleRoom($name)->title;
+
+        return view('pages/roomDetails', $data);
     }
 }

@@ -1,6 +1,7 @@
 <?=$this->extend('layouts/coreLayout');?>
 <?=$this->section('content');?>
-<div class="inner-banner" style="background: url('assets/img/rooms/room3.jpg') center center/cover; ">
+<div class="inner-banner"
+    style="background: url('<?=base_url()?>/assets/img/rooms/room-img4.jpg') center center/cover;">
     <div class="container">
         <div class="inner-title">
             <ul>

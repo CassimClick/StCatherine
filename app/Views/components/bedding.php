@@ -19,7 +19,7 @@
              </div>
              <div class="col-lg-6">
                  <div class="book-img-2">
-                     <img src="<?=base_url()?>/assets/img/rooms/room2.jpg" alt="Images" />
+                     <img src="<?=base_url()?>/assets/img/rooms/room-imgTp5.jpg" alt="Images" />
                  </div>
              </div>
          </div>

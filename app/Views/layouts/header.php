@@ -58,7 +58,18 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-3 col-md-2 pr-0">
+                    <!-- <ul class="social-link" style="display: flex; list-style:none">
+                        <li>
+                            <a href="#"><i class="bx bxl-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="bx bxl-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="bx bxl-instagram"></i></a>
+                        </li>
 
+                    </ul> -->
                 </div>
                 <div class="col-lg-9 col-md-10">
                     <div class="header-right">
@@ -69,7 +80,7 @@
                             </li> -->
                             <li>
                                 <i class="bx bx-phone-call"></i>
-                                <a href="tel:+255(0) 762 923306">+255(0) 762 923306</a>
+                                <a href="tel:+255(0) 762 923306">+255 689 449 597 (WhatsApp) </a>
                             </li>
                             <li>
                                 <i class="bx bx-envelope"></i>
@@ -93,7 +104,7 @@
         <div class="main-nav">
             <div class="container">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index-2.html">
+                    <a class="navbar-brand" href="<?=base_url()?>">
                         <img src="<?=base_url()?>/assets/img/logos/logo1.jpg" width="70" alt="Logo" />
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
